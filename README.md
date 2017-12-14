@@ -1,0 +1,2 @@
+# RFID-Attendance-based-system-with-speech-to-text-for-hostels
+RFID Attendance system are common these but problem comes on how to use it in hostels so that it saves time, effort and insures safety . So by adding few extra features like speech to text , message alert if anyone is late outside ,etc. to normal RFID attendance system makes it a safe and a time savor device to use .Further changes can be made if something 
